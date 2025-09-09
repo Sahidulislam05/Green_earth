@@ -206,7 +206,7 @@ const removeFromCart = (index) => {
   renderCart();
 };
 
-// all function call section 
+
 
 DefaultPlants();
 loadCategories();
