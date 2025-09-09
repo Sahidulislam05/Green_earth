@@ -149,7 +149,7 @@ const showDisplayCategories = (plants) => {
   manageSpinner(false);
 };
 
-// Display Categories
+// ALL Display Categories
 const displayCategories = (categories) => {
   const categoriesContainer = document.getElementById("categoriesContainer");
   categoriesContainer.innerHTML = "";
