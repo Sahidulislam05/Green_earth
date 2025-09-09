@@ -170,7 +170,7 @@ const displayCategories = (categories) => {
   }
 };
 
-// Challenges Part all Functions
+// Challenges Part all Function
 
 let cart = [];
 const addToCart = (plant) => {
